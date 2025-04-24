@@ -1,7 +1,7 @@
 /**
   This example fixed by Oguzhan ESEN. Fixed date : 24.04.2025
   @page SubGHz_Phy_PingPong_DualCore Readme file
-  
+Application Video : https://youtube.com/shorts/0sZeFSnZPS4   
   @verbatim
   ******************************************************************************
   * @file    Applications/SubGHz_Phy/SubGHz_Phy_PingPong_DualCore/readme.txt
